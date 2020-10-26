@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "定格",
+    "usingComponents": {
+        "not-logged": "/components/not-logged/index"
+    }
+}
